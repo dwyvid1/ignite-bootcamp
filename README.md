@@ -11,4 +11,4 @@ when it is released).
 # ReactJS :computer:
 ### Chapter 1
 * ReactJS Fundamentals;
-* Challenge: ReactJS concepts (https://github.com/dwyvid1/ignite-reactjs-challenge01)
+* Challenge: ReactJS concepts (https://github.com/dwyvid1/ignite-reactjs-challenge01);

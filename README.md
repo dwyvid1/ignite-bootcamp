@@ -9,7 +9,7 @@ The Ignite Bootcmap is a career acceleration program from Rocketseat for develop
 when it is released).
 
 # ReactJS :computer:
-### Chapter 1
+### Chapter 1 📙
 * ReactJS Fundamentals;
 * Challenge: ReactJS concepts (https://github.com/dwyvid1/ignite-reactjs-challenge01);
 * Challenge: Componentizing an application (https://github.com/dwyvid1/ignite-reactjs-challenge02);

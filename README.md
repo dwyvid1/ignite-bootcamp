@@ -12,3 +12,7 @@ when it is released).
 ### Chapter 1
 * ReactJS Fundamentals;
 * Challenge: ReactJS concepts (https://github.com/dwyvid1/ignite-reactjs-challenge01);
+* Challenge: Componentizing an application (https://github.com/dwyvid1/ignite-reactjs-challenge02);
+
+### Chapter 2 📘
+* First Web Application with ReactJS;
